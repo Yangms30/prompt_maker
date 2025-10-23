@@ -1,0 +1,17 @@
+# === Core Dependencies ===
+python-dotenv>=1.0.1
+streamlit>=1.39.0
+
+# === LangChain Core Framework ===
+langchain-core>=0.3.8
+langchain-openai>=0.2.7
+langchain-teddynote>=0.1.5
+langsmith>=0.1.92
+
+# === Optional: for retriever / embeddings / experiments ===
+tiktoken>=0.7.0
+openai>=1.45.0
+
+# === Utility Libraries ===
+requests>=2.32.3
+glob2>=0.7
